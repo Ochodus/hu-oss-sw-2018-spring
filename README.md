@@ -1,4 +1,4 @@
-# hu-oss-sw-2018-spring
+﻿# hu-oss-sw-2018-spring
 GitHub education repository of spring 2018 semester.
 
 
@@ -10,6 +10,11 @@ Week 2 : branch master with test_2
 | OSS frontend framework | Members |
 |------------------------|---------|
 | example                | MB, GH  |
+
+| OSS frontend framework | Members |
+|------------------------|---------|
+| Vue.js              | 구근모, 손민우, 유승찬|
+
 
 ### 11:00~12:00 class
 
